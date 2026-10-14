@@ -1,16 +1,15 @@
 ## Hi there 👋
+Hi — I'm Johan Persson 👋
+I am studying at TUC sweden to become a software developer. 
 
-<!--
-**johanpersson-netizen/johanpersson-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About
+•	Location: Ljungby, Sweden
 
-Here are some ideas to get you started:
+Skills
+•	Languages: C#, Python and soon JavaScript, html, css and more
+•	Frameworks .NET, more comming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Contact
+•	Email: johanpersson33@gmail.com
+•	LinkedIn: www.linkedin.com/in/persson-johan-29711887
